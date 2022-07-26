@@ -1,4 +1,4 @@
-# /new places/ ConnectionMsgs
+# ConnectionMsgs
 
 ![изображение](https://user-images.githubusercontent.com/82046704/154838777-b7b04e76-dad8-4f81-ba87-055416c4fa80.png)
 
